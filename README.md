@@ -1,4 +1,3 @@
-# my-personal-project
 # My Personal Project
 
 This is my personal project created to practice Git and GitHub.
